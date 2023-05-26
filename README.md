@@ -41,7 +41,7 @@ O commit semântico possui os elementos estruturais abaixo (tipos), que informam
 - Usar um emoji no início da mensagem de commit representando sobre o commit;
 - Um link precisa ser adicionado em sua forma mais autêntica, ou seja: sem encurtadores de link e links afiliados;
 
-## 💈 Padrões de emojis
+## 💈 Padrões de emojs
 
 <table>
   <thead>
